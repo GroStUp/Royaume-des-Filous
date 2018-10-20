@@ -1,0 +1,9 @@
+.RDC h1 {
+    color: white;
+    text-shadow: 10px;
+    text-align: center;
+    background-image: url("https://marketplace.canva.com/MAC1OrTQqDM/1/screen/canva-blue-to-pink-gradient-MAC1OrTQqDM.jpg");
+    background-size: cover;
+    padding: 0%;
+    position: fixed;
+}
